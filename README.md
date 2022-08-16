@@ -7,7 +7,7 @@
   <img src="https://user.oc-static.com/upload/2020/09/07/15994931316367_logo%20dev.png" alt="Logo" width="160" height="80">
   </a>
 
-<h3 align="center">Agile methodology</h3>
+<h3 align="center">Agile methodologies</h3>
   <p align="center">
     This student project is the #2 of my training.<br>You can follow the previous <a href="https://github.com/KDerec/bookscrap">here</a> and next one <a href="https://github.com/KDerec/chesstournamentmanager">here</a>.
   </p>
@@ -50,5 +50,5 @@ Project Link: [https://github.com/KDerec/LearnHome](https://github.com/KDerec/Le
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<i>This student project is the #3 of my training.<br>You can follow the previous <a href="https://github.com/KDerec/chesstournamentmanager">here</a> and next one <a href="https://github.com/KDerec/algo-invest-trade">here</a>.</i>
+<i>This student project is the #2 of my training.<br>You can follow the previous <a href="https://github.com/KDerec/bookscrap">here</a> and next one <a href="https://github.com/KDerec/chesstournamentmanager">here</a>.</i>
 
