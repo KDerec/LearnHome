@@ -19,15 +19,25 @@
 - Manage a project with **agile methodologies**.
 - Define the **functional requirements** of the application from the customer's needs.
 - **Prototype** a **technical solution** for a customer with **domain models** and **wireframes**.
-### 🚀 Project goal
-According to customer's needs, I have to deliver:
-- [Usecase diagram](https://github.com/KDerec/LearnHome/blob/main/use_case_diagram.pdf).
-- [User stories](https://github.com/KDerec/LearnHome/blob/main/user_stories.pdf) with acceptance criteria.
-- Mobile and desktop [wireframes](https://github.com/KDerec/LearnHome/tree/main/wireframes).
-- [Kanban board](https://trello.com/b/aKV0xURc/learnhome).
 
-Example of [wireframes](https://github.com/KDerec/LearnHome/tree/main/wireframes) for smartphone dashboard :
-<a href="https://github.com/KDerec/LearnHome/blob/main/wireframes/Tableau%20de%20bord%20(Smartphone).png"><img src="https://github.com/KDerec/LearnHome/blob/main/wireframes/Tableau%20de%20bord%20(Smartphone).png" alt="Logo" width="218" height="433.5"></a>
+### 📖 Scenario
+I am employed at **Dev4U**, a digital services company with two software development entities: 
+- one entity specialized in mobile application development ;
+- one dedicated to the **web**.  
+
+I am the **lead developer** of the web entity and I receive a **message** from my manager with **good news**...  
+
+📬 -> "I have a project for you ! **Learn@Home** is an association that connects children in school difficulties with volunteer tutors. Basically, their **goal** is to allow any student, anywhere, to have access to distance learning support. They confirmed that they wanted to work with us on their **website project**. 💪🎉"
+
+The website will make it easier for their students and volunteers to **communicate** directly from their site. Up until then they were mostly using WhatsApp and SMS!
+### 🚧🚀 Project goal & deliverable
+Our first step is to clearly **define the customer needs**, before starting the pure software development.  
+We have scheduled another meeting in a few weeks, **the objective** is that you present them with the following elements: 
+
+- [Use case diagrams](https://github.com/KDerec/LearnHome/blob/main/use_case_diagram.pdf) for each of the major **functionalities** of each page (login, chat, calendar, task manager, dashboard).
+- [User stories](https://github.com/KDerec/LearnHome/blob/main/user_stories.pdf) with **acceptance criteria** for each feature.
+- [Mobile and desktop wireframes](https://github.com/KDerec/LearnHome/tree/main/wireframes) of the site.
+- A [kanban board](https://trello.com/b/aKV0xURc/learnhome) breaking down the project, in a **macro way** (excluding technical details) into blocks of features and sub-features for development.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
